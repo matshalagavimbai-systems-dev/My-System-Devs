@@ -1,2 +1,2 @@
 # My-System-Devs
-Contains a short profile REDAME to discuss my interests, skills and background
+Contains a short profile README to discuss my interests, skills and background
